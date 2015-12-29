@@ -1,7 +1,7 @@
 name: MaxMORIX
 favicon: null
-layout_spectrum: 0.3709175332915038
-typography_spectrum: 0.7774227045010775
+layout_spectrum: 1
+typography_spectrum: 0.25056
 cta:
   domain: null
   bucket: null
