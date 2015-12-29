@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[MaxMORIX]]></title>
         <description><![CDATA[MaxMORIX]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/maxmorix/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Dec 2015 16:07:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 29 Dec 2015 16:18:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/maxmorix/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About us]]></title>
-            <description><![CDATA[<article><h1>About us</h1><p>Business Design</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c648a83e13a1be8135067c8be829531d3de44098.png"></article>]]></description>
-            <link>undefinedabout-us/index.html</link>
+            <description><![CDATA[<article><h1>About us</h1><p>Business Design</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/02959d4f1ab5eecfe811042eaddb665956ccef81.png"></article>]]></description>
+            <link>https://thegrid.ai/maxmorix/about-us/index.html</link>
             <guid isPermaLink="false">6adeffd2-5279-4d9f-9bcf-da669cae6db2</guid>
-            <pubDate>Tue, 29 Dec 2015 16:07:06 GMT</pubDate>
+            <pubDate>Tue, 29 Dec 2015 16:18:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
