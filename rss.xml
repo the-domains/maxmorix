@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[MaxMORIX]]></title>
+        <description><![CDATA[MaxMORIX]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 12 Feb 2016 08:53:55 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Business Design]]></title>
+            <description><![CDATA[<article><h1>Business Design</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dfd879d4a25ff8c61c05684da7c52c7d84cf2d8e.png"></article>]]></description>
+            <link>undefinedabout-us/index.html</link>
+            <guid isPermaLink="false">6adeffd2-5279-4d9f-9bcf-da669cae6db2</guid>
+            <pubDate>Fri, 12 Feb 2016 08:53:46 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
